@@ -1,0 +1,121 @@
+body{
+    margin: 10%;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+
+    font-size: 50px;
+}
+.orange-highlight{
+    color:orange;
+}
+
+button{
+    color: crimson;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+
+}
+.link-button{
+    text-decoration: none ;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding:10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.about-area{
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.latest-experience{
+    box-shadow: 10px 10px 20px seashell;
+    border-radius: 5px;
+    top: 41px;
+    height: 70%;
+    width: 25%;
+    font-size: small;
+    background-color: white; 
+}
+.working-area{
+    text-align: center;
+    background-repeat: no-repeat;  
+}
+.pic{
+    margin-top: 30px;
+    padding: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.link-button{
+    text-decoration: none ;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding:10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    
+}
+.forth-area{
+    background-size: 100%y;
+    margin: 5%;
+    padding: 5%;
+    border-radius: 20px;
+    background-image: url("image/footer.png");
+    height: 100px;
+    width: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: block;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text{
+    background-position: top;
+}
+.work{
+    font-size: 50px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+.forth-button{
+    float: left;;
+    background-size: 100%;
+    
+}
+
+.link-button_forth_button{
+    float: right;
+    font-size: 30px;
+    text-decoration: none ;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding:10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+
+}
+.icon{  
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+#information{
+    text-align: center;
+}
